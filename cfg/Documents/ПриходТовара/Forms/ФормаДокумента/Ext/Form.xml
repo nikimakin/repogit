@@ -144,6 +144,13 @@
 								<Event name="OnChange">ТоварыТоварПриИзменении</Event>
 							</Events>
 						</InputField>
+						<InputField name="ТоварыЕдиницаИзмерения" id="68">
+							<DataPath>Объект.Товары.ЕдиницаИзмерения</DataPath>
+							<EditMode>EnterOnInput</EditMode>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ТоварыЕдиницаИзмеренияКонтекстноеМеню" id="69"/>
+							<ExtendedTooltip name="ТоварыЕдиницаИзмеренияРасширеннаяПодсказка" id="70"/>
+						</InputField>
 						<InputField name="ТоварыАртикул" id="15" DisplayImportance="Usual">
 							<DataPath>Объект.Товары.Товар.Артикул</DataPath>
 							<EditMode>EnterOnInput</EditMode>
