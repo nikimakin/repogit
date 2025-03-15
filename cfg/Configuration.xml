@@ -481,6 +481,7 @@
 			<Constant>ТолькоЗащищеннаяАутентификацияPOP3</Constant>
 			<Constant>ТолькоЗащищеннаяАутентификацияSMTP</Constant>
 			<Constant>УчетПоСкладам</Constant>
+			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
 			<CommonForm>ОбщиеНастройки</CommonForm>
 			<CommonForm>НастройкиМобильногоУстройства</CommonForm>
 			<CommonForm>НастройкаПочты</CommonForm>
@@ -511,6 +512,7 @@
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
 			<Catalog>Встречи</Catalog>
 			<Catalog>ЕдиницыИзмерения</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
