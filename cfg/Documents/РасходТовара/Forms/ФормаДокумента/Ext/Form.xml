@@ -242,7 +242,7 @@
 									<Title>
 										<v8:item>
 											<v8:lang>ru</v8:lang>
-											<v8:content>Новый реквизит на форму (Единица измерения)</v8:content>
+											<v8:content>Единица измерения (хотфикс)</v8:content>
 										</v8:item>
 									</Title>
 									<EditMode>EnterOnInput</EditMode>
