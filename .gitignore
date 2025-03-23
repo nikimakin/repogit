@@ -4,3 +4,6 @@
 
 # Binary
 /bin/
+
+*.log
+*.bat
